@@ -17,8 +17,8 @@
 5. Выполнить клонирование коллекции.
 6. Выполнить сортировку коллекции (если коллекция не отсортирована) и поиск заданного элемента в коллекции.
 ### Часть 3 (Коллекция MyQueue)
-1. Реализовать  обобщенную коллекцию, указанную в варианте [link][https://github.com/rdsalakhov/collections-lab/blob/master/Lab11/MyQueue/MyQueue.cs]. 
-2. Реализовать возможность итерирования по коллекции [link][https://github.com/rdsalakhov/collections-lab/blob/master/Lab11/MyQueue/QueueEnumerator.cs].
+1. Реализовать  обобщенную коллекцию, указанную в варианте https://github.com/rdsalakhov/collections-lab/blob/master/Lab11/MyQueue/MyQueue.cs
+2. Реализовать возможность итерирования по коллекции https://github.com/rdsalakhov/collections-lab/blob/master/Lab11/MyQueue/QueueEnumerator.cs
 3. Для всех коллекций реализовать конструкторы:
 4. public MyCollection() - предназначен для создания пустой коллекции с заранее определенной начальной емкостью.
 5. public MyCollection (int capacity) - создает пустую коллекцию с начальной емкостью, заданной параметром capacity.
