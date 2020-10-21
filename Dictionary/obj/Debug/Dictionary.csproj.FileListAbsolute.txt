@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\bin\Debug\Dictionary.exe.config
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\bin\Debug\Dictionary.exe
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\bin\Debug\Dictionary.pdb
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\bin\Debug\ProductsClassLibrary.dll
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\bin\Debug\ProductsClassLibrary.pdb
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\obj\Debug\Dictionary.csproj.CopyComplete
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\obj\Debug\Dictionary.exe
+\\Mac\Home\Desktop\projects\Lab11\Dictionary\obj\Debug\Dictionary.pdb

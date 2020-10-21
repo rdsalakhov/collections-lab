@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\projects\Lab11\Lab11\bin\Debug\Lab11.exe.config
+\\Mac\Home\Desktop\projects\Lab11\Lab11\bin\Debug\Lab11.exe
+\\Mac\Home\Desktop\projects\Lab11\Lab11\bin\Debug\Lab11.pdb
+\\Mac\Home\Desktop\projects\Lab11\Lab11\bin\Debug\ProductsClassLibrary.dll
+\\Mac\Home\Desktop\projects\Lab11\Lab11\bin\Debug\ProductsClassLibrary.pdb
+\\Mac\Home\Desktop\projects\Lab11\Lab11\obj\Debug\MyQueue.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\projects\Lab11\Lab11\obj\Debug\MyQueue.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projects\Lab11\Lab11\obj\Debug\MyQueue.csproj.CopyComplete
+\\Mac\Home\Desktop\projects\Lab11\Lab11\obj\Debug\Lab11.exe
+\\Mac\Home\Desktop\projects\Lab11\Lab11\obj\Debug\Lab11.pdb

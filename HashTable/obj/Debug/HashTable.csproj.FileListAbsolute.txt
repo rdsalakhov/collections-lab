@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\projects\Lab11\HashTable\bin\Debug\HashTable.exe.config
+\\Mac\Home\Desktop\projects\Lab11\HashTable\bin\Debug\HashTable.exe
+\\Mac\Home\Desktop\projects\Lab11\HashTable\bin\Debug\HashTable.pdb
+\\Mac\Home\Desktop\projects\Lab11\HashTable\bin\Debug\ProductsClassLibrary.dll
+\\Mac\Home\Desktop\projects\Lab11\HashTable\bin\Debug\ProductsClassLibrary.pdb
+\\Mac\Home\Desktop\projects\Lab11\HashTable\obj\Debug\HashTable.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\projects\Lab11\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projects\Lab11\HashTable\obj\Debug\HashTable.csproj.CopyComplete
+\\Mac\Home\Desktop\projects\Lab11\HashTable\obj\Debug\HashTable.exe
+\\Mac\Home\Desktop\projects\Lab11\HashTable\obj\Debug\HashTable.pdb
